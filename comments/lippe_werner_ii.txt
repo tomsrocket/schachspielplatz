@@ -1,0 +1,3 @@
+<div class="comment"><span class="commentName">Schwarz:</span> Einfach Schach setzen! Unversch‰mt!</div>
+<div class="comment"><span class="commentName">Schwarz:</span> Einfach Schach setzen! Unversch‰mt!</div>
+<div class="comment"><span class="commentName">Weiﬂ:</span> Schach</div>

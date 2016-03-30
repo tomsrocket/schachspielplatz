@@ -1,0 +1,76 @@
+.e0 
+     {
+	  color: black;
+     font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	  font-style: normal; font-size: 10pt; text-decoration: none
+	  }
+.e1 
+    {
+	 color: red; 
+	 font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	 font-style: normal; 
+	 font-size: 10pt; 
+	 text-decoration: none
+	 }
+.e2 
+    {color: maroon; 
+	 font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	 font-style: normal; 
+	 font-size: 10pt; 
+	 text-decoration: none}
+.e3 
+    {color: green; 
+	 font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	 font-style: normal; 
+	 font-size: 10pt; 
+	 text-decoration: none}
+.e4 {color: fuchsia; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-style: normal; font-size: 10pt; text-decoration: none}
+.2 {font-size: smaller; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+.1 {font-size: 2px;	color: #ffffcc; font-weight: bold;}
+body, td
+   {
+   color:white;
+   font-family:Tahoma, Verdeana, Arial;
+   font-size:11px;
+
+	scrollbar-face-color: #999999;
+	scrollbar-shadow-color: #333333;
+	scrollbar-highlight-color: #cccccc;
+	scrollbar-3dlight-color: #666666;
+	scrollbar-darkshadow-color: #222222; 
+	scrollbar-track-color: #888888;
+	scrollbar-arrow-color: #444444;
+}
+h3
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 15px;
+	color: white;
+}
+a:hover
+{
+	color: #ff6600;
+	background:#000999;
+	text-decoration: none;
+}
+a:visited {text-decoration: none;}
+
+.logo { width:716px;margin:0 auto 0 auto;}
+.kopfzeile, .optionbox, .optionboxs {text-align:center;background-color:#363636; border:1px solid black; width:716px;margin: 0 auto 10px auto;padding:5px;}
+.forbidden { color:#ff6666;font:Verdana 17px bold; }
+.comment ,.gcomment { margin: 0 0 5px 0;}
+.commentName {color:#333333; font-weight:normal; }
+.comments {width:120;height:160;background-color:#8F99A2;color:#555555;overflow:auto;padding:2px;margin:1px 0 2px 0;}
+.textfeld {width:120;background-color:#8F99A2;color:black;}
+textarea, .input {border: 1px solid black; padding:2px;background-color:#8F99A2;color:black }
+input {font-size:12px;}
+.standardbutton { width:150px;}
+.main {background-color:#7C868F;border:1px solid black;text-align:center;margin:0 auto 10px auto;width:716px; }
+.optionbox, .optionfeld, .optionbox td, .optionbox h3 {color:#bbbbbb;}
+.optionfeld {background-color:#565656;border:1px solid #565656;width:150px;}
+.optionboxs {width:600px;}
+.gcomment .commentName {color:#ffffff; font-weight:bold; }
+.small {font-size:9px;color:#bbbbbb}
+h3 {padding: 0 0 5px 0;margin:0;letter-spacing:1px;}
